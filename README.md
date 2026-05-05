@@ -1,5 +1,15 @@
 # 🎬 Movie Recommender AI
+
 ## 🚀 AI-powered movie recommendation system that suggests movies based on user preferences using a hybrid approach combining:
+
+
+### 🌐 Live Demo
+👉 https://movie-recommender-ai-8mfshblwsu8bxhgdbdwwcc.streamlit.app/
+
+
+### 📸 Screenshots
+<img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/f05915c0-9f6d-4dc2-a1d0-3dea252fcad8" />
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/619f941e-038f-4a09-9ded-5ff4f2404166" />
 
 
 ### 🤖 Semantic AI (NLP embeddings)
@@ -34,7 +44,6 @@ Collaborative similarity
 Popularity (average rating)
 
 
-
 ### 🛠 Tech Stack
 Python
 Streamlit
@@ -61,27 +70,19 @@ movie-recommender-ai/
 
 ### ⚙️ Setup & Run Locally
 #### 1. Clone repo
-git clone https://github.com/your-username/movie-recommender-ai.git
+git clone https://github.com/utsav-ratpiya/movie-recommender-ai.git
 cd movie-recommender-ai
 #### 2. Install dependencies
 pip install -r requirements.txt
 #### 3. Add OMDb API Key
 Create a .env file:
-OMDB_API_KEY=your_api_key_here
+OMDB_API_KEY = your_api_key_here
 #### 4. Run app
 streamlit run app.py
 
 
 
-### 🌐 Live Demo
-
-👉 (Add your deployed Streamlit link here)
-
-### 📸 Screenshots
-
-(Add your project screenshots here)
-
-🚀 Future Improvements
+### 🚀 Future Improvements
 👤 User-based personalization
 ❤️ Watch history & recommendations
 📊 Trending / popular movies section
@@ -94,5 +95,4 @@ Utsav Ratpiya
 💼 Aspiring AI/ML Engineer & Entrepreneur
 🔗 LinkedIn: https://www.linkedin.com/in/utsav-ratpiya-2b9470284/
 
-⭐ If you like this project
-Give it a ⭐ on GitHub — it helps a lot!
+#### If you like this project Give it a ⭐ on GitHub !
