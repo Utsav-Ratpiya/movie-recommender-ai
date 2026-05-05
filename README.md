@@ -4,25 +4,17 @@
 
 ### 🤖 Semantic AI (NLP embeddings)
 🎯 Collaborative Filtering
-
 ⭐ Popularity-based ranking
-
 🔥 Features
 🎬 Smart movie recommendations (Netflix-style logic)
-
 🔍 Flexible search (no exact spelling needed)
-
 🧠 Meaning-based suggestions (not just keywords)
-
 🎯 Franchise + genre-aware ranking
-
 🎥 Movie posters, ratings, and descriptions
-
 🎭 Sidebar with all available genres
-
 ⚡ Fast performance with caching
-
 🌐 Interactive UI built using Streamlit
+
 
 
 ### 🧠 How It Works
@@ -41,6 +33,8 @@ Semantic similarity
 Collaborative similarity
 Popularity (average rating)
 
+
+
 ### 🛠 Tech Stack
 Python
 Streamlit
@@ -48,6 +42,8 @@ Pandas / NumPy
 Scikit-learn
 Sentence Transformers (MiniLM)
 OMDb API
+
+
 
 ### 📁 Project Structure
 movie-recommender-ai/
@@ -62,6 +58,7 @@ movie-recommender-ai/
 └── README.md
 
 
+
 ### ⚙️ Setup & Run Locally
 #### 1. Clone repo
 git clone https://github.com/your-username/movie-recommender-ai.git
@@ -73,6 +70,8 @@ Create a .env file:
 OMDB_API_KEY=your_api_key_here
 #### 4. Run app
 streamlit run app.py
+
+
 
 ### 🌐 Live Demo
 
