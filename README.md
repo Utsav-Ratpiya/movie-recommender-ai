@@ -1,22 +1,27 @@
 # 🎬 Movie Recommender AI
 
-## 🚀 AI-powered movie recommendation system that suggests movies based on user preferences using a hybrid approach combining:
+## 🚀 AI-powered movie recommendation system with real-time UI & deployment
 
 
 ### 🌐 Live Demo
 👉 https://movie-recommender-ai-8mfshblwsu8bxhgdbdwwcc.streamlit.app/
 
 
-### 📸 Screenshots
+### 📸 Preview
 <img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/f05915c0-9f6d-4dc2-a1d0-3dea252fcad8" />
 ---
 <img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/619f941e-038f-4a09-9ded-5ff4f2404166" />
 
 ___
-### 🤖 Semantic AI (NLP embeddings)
+### 🚀 Impact
+- Reduced cold-start problem using hybrid recommendation logic  
+- Improved recommendation quality using semantic embeddings  
+- Built a production-style ranking system (multi-factor scoring)
+___
+### Features
+🤖 Semantic AI (NLP embeddings) 
 🎯 Collaborative Filtering
 ⭐ Popularity-based ranking
-🔥 Features
 🎬 Smart movie recommendations (Netflix-style logic)
 🔍 Flexible search (no exact spelling needed)
 🧠 Meaning-based suggestions (not just keywords)
