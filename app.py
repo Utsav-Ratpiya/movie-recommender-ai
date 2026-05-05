@@ -2,11 +2,13 @@ import streamlit as st
 from recommender import hybrid_recommend, find_closest_movie, match_score
 import pandas as pd
 import requests
-from dotenv import load_dotenv
 import os
+from dotenv import load_dotenv
+
 
 load_dotenv()
-API_KEY = st.secrets["OMDB_API_KEY"]
+
+API_KEY = st.secrets.get("OMDB_API_KEY") or os.getenv("OMDB_API_KEY")
 
 st.set_page_config(page_title="AI Movie Recommender", layout="wide")
 
