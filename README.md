@@ -4,15 +4,24 @@
 
 ### 🤖 Semantic AI (NLP embeddings)
 🎯 Collaborative Filtering
+
 ⭐ Popularity-based ranking
+
 🔥 Features
 🎬 Smart movie recommendations (Netflix-style logic)
+
 🔍 Flexible search (no exact spelling needed)
+
 🧠 Meaning-based suggestions (not just keywords)
+
 🎯 Franchise + genre-aware ranking
+
 🎥 Movie posters, ratings, and descriptions
+
 🎭 Sidebar with all available genres
+
 ⚡ Fast performance with caching
+
 🌐 Interactive UI built using Streamlit
 
 
